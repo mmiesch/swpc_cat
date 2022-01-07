@@ -1,7 +1,7 @@
 telescopes=LASCO C2,LASCO C3,STEREO A COR2,STEREO B COR2
 image_in_folders=LASCO_C2_MERGE,LASCO_C3_MERGE,STEREO_A,STEREO_B
-image_in_root=\\nas-ncs\WSA-ENLIL\Images
-export_location_root=C:\Users\george.millward\CAT_exports
+image_in_root=/home/mark.miesch/data/CAT_imports
+export_location_root=/home/mark.miesch/data/CAT_exports
 max_interval_in_days=2
 run_as_OPS_or_VnV=VnV
 earth_position_filename=Earth_position_2011_to_2030.txt
