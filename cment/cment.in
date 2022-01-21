@@ -1,0 +1,5 @@
+telescopes=LASCO C2,LASCO C3,STEREO A COR2,STEREO B COR2
+image_in_folders=LASCO_C2_MERGE,LASCO_C3_MERGE,STEREO_A,STEREO_B
+image_in_root=\\Nas-bes\wsa-enlil\Images
+image_out_location=C:\Users\george.millward.SWPC\CME_naming_output
+max_interval_in_days=2

@@ -1,0 +1,7 @@
+To build cment:
+Locate the file build_cment.pro
+Edit the 2 lines that define the paths to the source code and where the executable will reside, ie, these 2 lines:
+source_code_folder = 'C:\Users\george.millward.SWPC\IDL_projects\cat\'
+executable_folder = 'C:\Users\george.millward.SWPC\Desktop\CMENT_DEMO\'
+start idl and run the build script:
+IDL> @build_cment
